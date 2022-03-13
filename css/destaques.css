@@ -38,4 +38,5 @@
     color: var(--vermelho-forte);
     border-color: var(--vermelho-forte);
     margin: 0 auto;
+    padding: 1rem 2rem;
 }
